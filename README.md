@@ -1,4 +1,5 @@
 Proyecto final FastAPI
+
 Descripción:
 Este proyecto esta diseñado para demostrar como construir un API Rest utilizando FastAPI, un framework moderno y eficiente para aplicaciones web en Python.
 La aplicación gestiona 3 tablas principales: Usuarios, Productos y Ventas, las cuales están relacionadas entre sí para simular un sistema básico de comercio electrónico.
