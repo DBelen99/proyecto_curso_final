@@ -10,4 +10,5 @@ Define los artículos disponibles. Cada articulo tiene atributos como nombre, de
 Ventas:
 Registra las transacciones realizadas por los usuarios. Esta tabla relaciona a los usuarios con los productos vendidos.
 
-file:///C:/Users/daysib.anator/Documents/Belen_Anazco_Torres_ProyectoFinal.pdf
+https://github.com/DBelen99/proyecto_curso_final/blob/master/Anazco_Torres_Belen_Memoria_ProyectoFinal_2DAM.pdf
+
